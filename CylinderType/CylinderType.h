@@ -1,6 +1,7 @@
 #ifndef CYLINDERTYPE_H
 #define CYLINDERTYPE_H
 
+#include "PointType.h"
 #include "CircleType.h"
 
 class CylinderType : public CircleType {
